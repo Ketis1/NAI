@@ -1,0 +1,29 @@
+Esta guía sobre la estructura de un artículo provee información sobre cómo estructurar un artículo conforme a las convenciones de Wikipedia. Un artículo estándar consta, como mínimo de:
+
+Una sección introductoria que resuma los contenidos más relevantes del artículo
+Si el artículo contiene más de unos pocos párrafos, una serie se apartados donde se desarrollan los diferentes aspectos del tema principal
+Un listado de las fuentes utilizadas para escribir el artículo
+Etiquetas de categorías que sirven para agruparlo con otros artículos relacionados por tema
+Los artículos más complejos y desarrollados pueden contener también listas de enlaces a otros artículos de Wikipedia y a sitios externos para complementar o profundizar en la información presentada en el artículo, así como información gráfica en forma de fichas e imágenes. Esta guía describe las diferentes secciones, el orden en que aparecen y cuando deben o no deben utilizarse. Para artículos complejos o especiales, una buena estrategia es seguir el ejemplo de otros artículos ya existentes.
+Sección introductoria
+Atajos
+WP:INTRO
+WP:INTRODUCCIÓN
+Artículo principal: Wikipedia:Sección introductoria
+Todo artículo comienza con una sección introductoria, y toda sección introductoria comienza con una definición o caracterización lo más concisa posible del concepto o tema del artículo. En general, en la primera oración también se acostumbra hacer una mención en negritas del título mismo del artículo. Por ejemplo, en el artículo Queso, la sección introductoria podría comenzar así: «El queso es un alimento sólido elaborado a partir de...»
+
+Tras la definición, la sección introductoria del artículo debe:
+
+Poner en su contexto el tema del artículo.
+Ofrecer la información más relevante de este.
+Mostrar por qué el tema del artículo es notable e interesante.
+La sección introductoria generalmente no debe tener más de cinco párrafos de largo. Una vez finalizada, se debe dejar una única línea vacía para ayudar a los demás editores a distinguirla del resto del artículo.
+
+La sección introductoria puede contener también otros elementos adicionales, como enlaces de desambiguación, etiquetas de mantenimiento, fichas, imágenes y una tabla de contenidos. Algunos de estos elementos se explican a continuación.
+
+Ficha
+Las fichas son paneles que resumen datos claves sobre el tema de la página; pueden contener también una imagen o un mapa o ambos. La ficha precede inmediatamente a la introducción —y se muestra a la derecha o al final de la introducción, dependiendo de si la página se consulta en la versión escritorio o móvil—. Su uso es opcional y en ningún caso deben sustituir a la entradilla.
+
+Para conseguir un estilo uniforme entre artículos relacionados por tema, existen plantillas para diferentes tipos de artículos. La lista se puede encontrar aquí. Si no encuentras una ficha apropiada ni en la lista ni en artículos de temática similar, puedes pedir ayuda en el Wikiproyecto:Plantillas. En ningún caso debe utilizarse más de una ficha en el artículo.
+
+Los valores de algunos de los campos o parámetros de la ficha se completan de manera automática a partir de los datos presentes en Wikidata, si existen. En algunos casos es posible cambiar el contenido si se usa el parámetro explícitamente, aunque si el dato de Wikidata es erróneo u obsoleto, es mejor corregirlo allí directamente.

@@ -1,0 +1,12 @@
+Wikiproyectos inactivos
+Categoría principal: Wikipedia:Wikiproyectos inactivos
+Tenemos un total de 268 wikiproyectos inactivos. Para que un wikiproyecto sea considerado inactivo es necesario verificar que sus integrantes no hayan editado los artículos relacionados con el tema del proyecto por un periodo mayor a seis meses. La falta de ediciones recientes en la página principal del wikiproyecto, en sus páginas secundarias o en su discusión, no es un indicativo de inactividad.
+
+Asimismo, de acuerdo con una encuesta de 2014, también se consideran inactivos aquellos proyectos que cuenten solo con un integrante inscrito o que todos sus participantes se encuentren inactivos por más de seis meses.
+
+La plantilla empleada para informar sobre la inactividad de un proyecto es esta: {{wikiproyecto inactivo}}.
+
+Cualquier wikipedista puede "despertar" un wikiproyecto inscribiéndose si todavía no lo está, retirando la plantilla de inactividad y poniéndose a editar los artículos vinculados a dicho proyecto.
+¡Bienvenido/a a Wikipedia! Casi cualquier página puede ser editada por cualquier persona, y cada hora se realizan cientos de cambios para añadir contenido, corregir errores o mejorar la legibilidad. Cualquier cambio que hagas es visible inmediatamente y, por trivial que parezca la edición, puedes sentir la satisfacción de haber ayudado a hacer de Wikipedia lo que es.
+
+Esta página te conduce a través de un conjunto de tutoriales de introducción dirigidos a las personas recién llegadas que estén interesadas en contribuir voluntariamente. Cubre todos los aspectos básicos necesarios para usar, comentar y contribuir en los artículos de Wikipedia. Existen dos métodos de edición: mediante el Editor Visual o mediante Wikitexto. Cada tutorial dura unos 10 minutos, de manera que en apenas una hora podrás convertirte en wikipedista.

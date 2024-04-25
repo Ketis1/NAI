@@ -1,0 +1,15 @@
+El sentido para fijar puestos, para dar las cartas y jugarlas es siempre el contrario al de las agujas del reloj. Tras decidir quién comienza a barajar se reparten las cartas. El número de cartas a repartir y el de rondas a jugar depende del número de jugadores.
+
+Primero se juegan tantas rondas de una carta como número de jugadores haya o si se quiere reducir la duración del juego, solo se juega una ronda con una carta. Después se va aumentando el número de cartas por baza progresivamente de una en una, hasta llegar al máximo de cartas que se pueden repartir y con ese número de cartas se juegan tantas rondas como jugadores haya, aunque el número de 'rondas' con el máximo de cartas puede ser variable, disminuyéndolo o aumentándolo en función del tiempo disponible (pueden jugarse dos o tres vueltas completas). Una vez finalizadas estas rondas, se va disminuyendo de uno en uno el número de cartas por baza hasta llegar a una, entonces bien se juega una ronda completa con una carta o bien finaliza la partida. También, a lo largo de la partida, se pueden introducir manos especiales como indias o subastado, entre otras, aunque ha de indicarse previamente. Esto depende de la zona y de las costumbres de cada jugador.
+
+Si el número de cartas por jugador no fuese para todos igual al repartir todas las cartas se eliminan los doses, de forma que:
+
+3 jugadores, juegan con 36 cartas (Sin los doses) hasta un máximo de 12 cartas por jugador
+4 jugadores, juegan con 40 cartas hasta un máximo de 10 cartas por jugador. También pueden retirarse los doses y que el máximo sea de 9 cartas por jugador.
+5 jugadores, juegan con 40 cartas hasta un máximo de 8 cartas por jugador
+6 jugadores, juegan con 36 cartas (Sin los doses) hasta un máximo de 6 cartas por jugador
+7 jugadores, excepcionalmente, si el número de jugadores no permite repartir un número par de cartas, se retirará uno de los 4 de la baraja, con lo que quedará el mazo formado por 35 cartas y se repartirán 5 cartas a cada jugador. O bien, la carta que se utiliza para marcar el triunfo, no se utiliza en esa ronda.
+8 jugadores, al igual que con 7 jugadores, a cada uno le corresponderán 5 cartas pero en este caso hay que utilizar las 40 cartas disponibles en el mazo.
+Tanto el juego con 7 jugadores como el de 8 exigen que todos los miembros tengan cierto nivel de juego, dado que es el nivel más complicado del juego, dejando las partidas con 4 o 5 jugadores para iniciación.
+
+En cada mano el que reparte dará a cortar la baraja al jugador situado a su izquierda, y seguidamente repartirá las cartas a cada jugador una a una y tras repartir las cartas necesarias cogerá otra del mazo dejándola boca arriba para marcar el triunfo. Si se han repartido todas las cartas, el triunfo se marca por la última carta repartida, que se quedará el jugador que ha repartido. El jugador que reparte irá rotando hacia la derecha en cada mano.

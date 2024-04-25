@@ -1,0 +1,12 @@
+Un espacio de nombres es un conjunto de nombres o identificadores en el que todos los nombres son únicos. En el contexto de los espacios de nombres, cada nombre está asociado a un espacio de nombres. El mismo nombre puede estar definido en varios espacios de nombres, el significado de un nombre en un determinado espacio de nombres es distinto e independiente del significado del mismo nombre en otro espacio de nombres.
+
+Por ejemplo, Pedro trabaja para la compañía X y su número de empleado es 123. María trabaja para la compañía Y y su número de empleada también es 123. La razón por la cual Pedro y María pueden ser identificados con el mismo número de empleado es porque trabajan para compañías diferentes. En este caso cada compañía tiene su propio espacio de nombres.
+
+Como todos los wikis basados en MediaWiki, Wikipedia utiliza espacios de nombres para diferenciar los tipos de páginas. La Wikipedia en español tiene 26 espacios de nombres: 12 básicos, 12 son sus correspondientes páginas de discusión asociadas, y 2 virtuales.
+El espacio de nombres principal es la enciclopedia en sí. Es el espacio por omisión y no usa un prefijo. El número de artículos de la enciclopedia solo cuenta sus páginas.
+
+El espacio de nombres de proyecto, en nuestro caso Wikipedia: es el espacio donde se albergan las páginas relacionadas con la enciclopedia, sin ser parte de la enciclopedia en sí, por ejemplo, esta página, el Wikipedia:Café, etc.
+
+El espacio de nombres de usuario es el destinado a las páginas personales de los wikipedistas. En ellas solemos escribir lo que queremos que nuestros compañeros sepan de nosotros, enlaces a nuestras contribuciones, o lo que queramos. En el espacio de discusión asociado se reciben mensajes de otros usuarios con notificación.
+
+El espacio de nombres de imágenes alberga las páginas de descripción de imagen y por extensión de cualquier tipo de archivo subido al servidor.

@@ -76,9 +76,9 @@ public class Perceptron {
         System.out.println("]");
     }
 
-    //https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html
+
     public double compute(double[] input){
-        double preActivation = bias;
+        double preActivation = -theta;
         for (int i=0;i<weights.length;i++){
             preActivation += input[i]*weights[i];
         }

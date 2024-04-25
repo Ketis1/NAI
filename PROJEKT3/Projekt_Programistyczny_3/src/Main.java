@@ -1,13 +1,9 @@
 import java.io.File;
-import java.io.OutputStream;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class Main {
     public static List<Observation> testData;
     public static List<Observation> trainngData;
-    private static List<String> testFileNames;
     public static void main(String[] args) {
 
         trainngData=new ArrayList<>();
@@ -21,29 +17,47 @@ public class Main {
 
 
 
-        int epochs = 10000;
+        int epochs = 100000;
 //        Scanner scanner = new Scanner(System.in);
 //        System.out.println("podaj liczbe epok uczenia perceptronu");
 //        epochs = scanner.nextInt();
         int numOfLetters=26;
-        Perceptron englishPerceptron = new Perceptron(0.1,numOfLetters);
-        Perceptron polishPerceptron = new Perceptron(0.1,numOfLetters);
-        Perceptron spanishPerceptron = new Perceptron(0.1,numOfLetters);
+        Map<String,Perceptron> perceptronMap= new HashMap<>();
+        perceptronMap.put("english",new Perceptron(0.1,numOfLetters));
+        perceptronMap.put("polish",new Perceptron(0.1,numOfLetters));
+        perceptronMap.put("spanish",new Perceptron(0.1,numOfLetters));
+
+
         for (int ep=0;ep<epochs;ep++){
             for (Observation obs :trainngData){
 
                 Collections.shuffle(trainngData);
 
-                //uczenie perceptronu ktory powininen zwracac 1 jesli to jest jego jezyk
-                englishPerceptron.learn(obs.getDataFeatures(), obs.getLanguage()=="english"?1:0);
-                polishPerceptron.learn(obs.getDataFeatures(), obs.getLanguage()=="polish"?1:0);
-                spanishPerceptron.learn(obs.getDataFeatures(), obs.getLanguage()=="spanish"?1:0);
+//                //uczenie perceptronu ktory powininen zwracac 1 jesli to jest jego jezyk
+
+                for (Map.Entry<String,Perceptron> entry:perceptronMap.entrySet()){
+                    entry.getValue().learn(obs.getDataFeatures(), obs.getLanguage()== entry.getKey()?1:0);
+                }
+
             }
         }
 
-        List<Perceptron> inputLayer = new ArrayList<>();
-        List<Perceptron> middleLayer = new ArrayList<>();
-        List<Perceptron> outputLayer = new ArrayList<>();
+
+        //tutaj mozna ustawic jaki plik sie testuje, ewentualnie zaimplementowac podawanie jezyka i sciezki przez uzytkownika
+        Observation input = new Observation("spanish","data/test/spanish/5.txt");
+
+        double max = -10000;
+        String language="empty";
+        for (Map.Entry<String,Perceptron> entry:perceptronMap.entrySet()){
+            double res= entry.getValue().compute(input.getDataFeatures());
+            System.out.println(entry.getKey()+" "+res);
+            if (res>max){
+                max=res;
+                language=entry.getKey();
+            }
+        }
+        System.out.println("\n========\n"+language+"\n========\n");
+
 
     }
 
@@ -58,7 +72,6 @@ public class Main {
             for (File file : files) {
                 if (file.isFile() && file.getName().endsWith(".txt")) {
                     testFileNames.add(file.getName());
-                    System.out.println(file.getName());
                 }
             }
         }
@@ -69,7 +82,6 @@ public class Main {
     private static void loadTrainingData(String folderPath, String language){
         List<String> filesNames= loadTraingFilesNamesFromFolder(folderPath);
         for(String fileName:filesNames){
-            System.out.println(folderPath+fileName);
             trainngData.add(new Observation(language,folderPath+fileName));
         }
     }

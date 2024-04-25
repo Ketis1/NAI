@@ -1,0 +1,20 @@
+Primer paso: Solicitar el wikiproyecto
+Si tienes como mínimo un mes de antigüedad y al menos 200 ediciones en Wikipedia, puedes solicitar la creación de un wikiproyecto. Previamente, verifica si no existe algún otro proyecto igual en el siguiente listado: Listado alfabético de wikiproyectos. Una vez hecho esto, puedes agregar tu petición en la página de solicitudes. Si tu propuesta logra conseguir al menos cinco interesados en un plazo máximo de dos meses, podrás crear el wikiproyecto.
+
+Aquellos wikiproyectos creados sin cumplir estas condiciones, serán eliminados.
+
+Segundo paso: Crear el wikiproyecto
+Una vez se hayan cumplido las condiciones indicadas en el primer paso, podrás crear una página con el formato Wikiproyecto:Nombre (como «Wikiproyecto:Telefonía»). En la página Modelo de wikiproyecto, podrás encontrar un código básico para crear tu wikiproyecto, el cual es solo una muestra, pues podrás elegir el diseño que más te agrade. Se recomienda que cada wikiproyecto incluya la {{Ficha de wikiproyecto}} así como la subpágina «participantes» (por ejemplo, «Wikiproyecto:Telefonía/participantes»), para que pueda aparecer en el Ranking de wikiproyectos.
+
+En la siguiente página encontrarás algunos recursos para empezar tu wikiproyecto: Wikipedia:Wikiproyectos/Recursos.
+
+Tercer paso: Agregarlo a las listas de wikiproyectos
+Deberás agregar tu nuevo wikiproyecto tanto en el Directorio de wikiproyectos, colocándolo en la sección correspondiente, como en el Listado de wikiproyectos, manteniendo el orden alfabético y sumándolo al total de wikiproyectos activos mostrados en la parte inferior. Después, actualiza el contador general.
+
+Podrás encontrar herramientas interesantes para tu nuevo wikiproyecto en la pestaña Recursos.
+
+Por último, si quieres que se añadan más participantes, puedes poner un anuncio en el portal de la comunidad.
+
+Wikiproyectos en peligro de caer inactivos
+Categoría principal: Wikipedia:Wikiproyectos en peligro de caer inactivos
+Actualmente hay 1 wikiproyectos en peligro de caer inactivos en Wikipedia en español, por tener más de tres meses de inactividad. Si te animas a participar activamente y a buscar más colaboradores, puedes retirarle la categoría de Categoría:Wikipedia:Wikiproyectos en peligro de caer inactivos y así evitar su caída en inactividad.
