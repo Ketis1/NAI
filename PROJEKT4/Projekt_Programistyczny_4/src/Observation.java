@@ -53,4 +53,19 @@ public class Observation {
         return observations;
 
     }
+
+    public static double calculateDistance(double[] v1, double[] v2){
+        if (v1.length != v2.length) {
+            throw new IllegalArgumentException("vectors are not the same lenght");
+        }
+        double sumOfSquares = 0;
+        for (int i = 0; i < v1.length; i++) {
+            double diff = v1[i] - v2[i];
+            sumOfSquares += diff * diff;
+        }
+
+        return Math.sqrt(sumOfSquares);
+
+
+    }
 }
